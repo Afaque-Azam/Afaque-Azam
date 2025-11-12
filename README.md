@@ -39,7 +39,7 @@ I'm an aspiring **Data Scientist** passionate about transforming raw data into m
 ---
 
 ### Most Used Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Afaque-Azam&layout=compact&theme=redical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Afaque-Azam&layout=compact&theme=radical)
 
 ---
 
@@ -53,7 +53,7 @@ I'm an aspiring **Data Scientist** passionate about transforming raw data into m
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   
-    <a href="https://www.instagram.com/as_arfak/" target="_blank">
+  <a href="https://www.instagram.com/as_arfak/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   
@@ -62,7 +62,20 @@ I'm an aspiring **Data Scientist** passionate about transforming raw data into m
   </a>
   
 </p>
-
+<p align="center">
+  <a href="mailto:yourmail@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" style="margin: 10px;" />
+  </a>
+  <a href="https://linkedin.com/in/yourusername" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" style="margin: 10px;" />
+  </a>
+  <a href="https://github.com/yourusername" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="40" style="margin: 10px;" />
+  </a>
+  <a href="https://x.com/yourusername" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" height="40" style="margin: 10px;" />
+  </a>
+</p>
 ---
 
 ### 👀 Profile Views:
