@@ -18,14 +18,16 @@ I'm an aspiring **Data Scientist** passionate about transforming raw data into m
 
 ### 🛠️ Languages & Tools:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,mysql,git,github,vscode" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" width="90" height="130"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="90" height="130"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="45" height="45"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="45" height="45"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="60" height="100"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="JupyterLab" width="45" height="65"/>
-
+  <!-- Common Tools -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,mysql,git,github,vscode" height="40" style="margin: 10px;" />
+  
+  <!-- Data Science Libraries -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" height="40" style="margin: 10px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" height="40" style="margin: 10px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" height="40" style="margin: 10px;"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" height="40" style="margin: 10px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" height="40" style="margin: 10px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="JupyterLab" height="40" style="margin: 10px;"/>
 
 </p>
 
@@ -36,8 +38,8 @@ I'm an aspiring **Data Scientist** passionate about transforming raw data into m
 
 ---
 
-### 🧠 Most Used Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Afaque-Azam&layout=compact&theme=tokyonight)
+### Most Used Languages:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Afaque-Azam&layout=compact&theme=synthwave)
 
 ---
 
