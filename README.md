@@ -1,4 +1,4 @@
-<!-- 👋 Hi there! Welcome to my GitHub Profile -->
+<!-- 👋 Hi! Welcome to my GitHub Profile -->
 
 <h1 align="center">Hi 👋, I'm Afaque Azam</h1>
 <h3 align="center">🚀 A Passionate Data Science Engineer from India </h3>
@@ -12,7 +12,15 @@
 
 ### 🛠️ Languages & Tools:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,numpy,pandas,matplotlib,seaborn,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,mysql,git,github,vscode" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" width="45" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="90" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="45" height="45"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="45" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="60" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="JupyterLab" width="45" height="45"/>
+
+
 </p>
 
 ---
