@@ -39,7 +39,7 @@ I'm an aspiring **Data Scientist** passionate about transforming raw data into m
 ---
 
 ### Most Used Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Afaque-Azam&layout=compact&theme=synthwave)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Afaque-Azam&layout=compact&theme=redical)
 
 ---
 
@@ -48,12 +48,15 @@ I'm an aspiring **Data Scientist** passionate about transforming raw data into m
   <a href="https://www.linkedin.com/in/afaque-azam-3a6685338/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
+  
   <a href="mailto:afaqueazam428@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  
     <a href="https://www.instagram.com/as_arfak/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+  
   <a href="https://www.facebook.com/arfak.azam.2025" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
