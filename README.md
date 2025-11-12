@@ -49,15 +49,13 @@ I'm an aspiring **Data Scientist** passionate about transforming raw data into m
   <a href="mailto:afaqueazam428@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-    <a href="https://www.instagram.com/your-username" target="_blank">
+    <a href="https://www.instagram.com/as_arfak/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.facebook.com/your-username" target="_blank">
+  <a href="https://www.facebook.com/arfak.azam.2025" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-   <a href="https://twitter.com/your-username" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%2300acee?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
+  
 </p>
 
 ---
@@ -69,4 +67,7 @@ I'm an aspiring **Data Scientist** passionate about transforming raw data into m
 
 ⭐️ **Thanks for visiting my GitHub profile!**  
 
-Let’s connect and grow together 🚀
+💡 Let’s connect and grow together 🚀
+
+📚 *Keep learning, keep growing, and keep building a better version of yourself every day.*
+<p align="center">❤️❤️❤️</p>
