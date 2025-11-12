@@ -6,14 +6,20 @@
 ---
 
 ### 💫 About Me:  
+I'm an aspiring **Data Scientist** passionate about transforming raw data into meaningful insights.  
 
+🔹 Interested in **Machine Learning** and **Data Visualization**  
+🔹 Love exploring real-world datasets and building predictive models  
+🔹 Always Motivated to learn new tools and techniques in data science  
+
+📊 *“Turning data into knowledge and knowledge into action.”*
 
 ---
 
 ### 🛠️ Languages & Tools:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,mysql,git,github,vscode" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" width="45" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" width="90" height="90"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="90" height="45"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="45" height="45"/>
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="45" height="45"/>
@@ -43,6 +49,15 @@
   <a href="mailto:afaqueazam428@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+    <a href="https://www.instagram.com/your-username" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/your-username" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+   <a href="https://twitter.com/your-username" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%2300acee?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -53,4 +68,5 @@
 ---
 
 ⭐️ **Thanks for visiting my GitHub profile!**  
+
 Let’s connect and grow together 🚀
