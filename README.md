@@ -62,20 +62,7 @@ I'm an aspiring **Data Scientist** passionate about transforming raw data into m
   </a>
   
 </p>
-<p align="center">
-  <a href="mailto:yourmail@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" style="margin: 10px;" />
-  </a>
-  <a href="https://linkedin.com/in/yourusername" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" style="margin: 10px;" />
-  </a>
-  <a href="https://github.com/yourusername" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="40" style="margin: 10px;" />
-  </a>
-  <a href="https://x.com/yourusername" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" height="40" style="margin: 10px;" />
-  </a>
-</p>
+
 ---
 
 ### 👀 Profile Views:
