@@ -34,7 +34,8 @@ I'm an aspiring **Data Scientist** passionate about transforming raw data into m
 ---
 
 ### 📊 GitHub Stats:
-![Afaque's GitHub stats](https://github-readme-stats.vercel.app/api?username=Afaque-Azam&show_icons=true&theme=radical)
+![Afaque's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Afaque-Azam&show_icons=true&theme=radical)
+
 
 ---
 
