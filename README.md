@@ -44,6 +44,11 @@ I'm an aspiring **Data Scientist** passionate about transforming raw data into m
 
 ---
 
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Afaque-Azam&theme=radical)
+
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Afaque-Azam&theme=radical)
+
+
 ### 🔗 Connect with Me:
 <p align="left">
   <a href="https://www.linkedin.com/in/afaque-azam-3a6685338/" target="_blank">
