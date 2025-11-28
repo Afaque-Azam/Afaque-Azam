@@ -33,24 +33,16 @@ I'm an aspiring **Data Scientist** passionate about transforming raw data into m
 
 ---
 
+---
 ### 📊 GitHub Stats:
-![Afaque's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Afaque-Azam&show_icons=true&theme=radical)
-
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Afaque-Azam&theme=radical)
 
 ---
 
 ### Most Used Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Afaque-Azam&layout=compact&theme=radical)
-
----
-
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Afaque-Azam&theme=radical)
-
 ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Afaque-Azam&theme=radical)
 
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Afaque-Azam&layout=donut&theme=radical)
-
-
+---
 
 ### 🔗 Connect with Me:
 <p align="left">
