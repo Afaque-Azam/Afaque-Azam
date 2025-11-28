@@ -48,6 +48,9 @@ I'm an aspiring **Data Scientist** passionate about transforming raw data into m
 
 ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Afaque-Azam&theme=radical)
 
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Afaque-Azam&layout=donut&theme=radical)
+
+
 
 ### 🔗 Connect with Me:
 <p align="left">
